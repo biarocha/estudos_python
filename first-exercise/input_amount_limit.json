@@ -1,0 +1,30 @@
+{
+  "account":
+  {
+   "cardIsActive":true,
+    "limit": 1000.00,
+    "blacklist": ["Americanas", "Marabraz", "Riachuelo"],
+    "isWhitelisted":true
+  },
+  "transaction":
+  {
+    "merchant":"Fast Shop",
+    "amount": 1500.00,
+    "time": "2019-06-01 20:34:50"
+  },
+  "last_transactions":
+          [
+            {"merchant": "Marisa", "amount": 15.00, "time": "2019-01-28 20:30:55"},
+            {"merchant": "Cinemark", "amount": 20.00, "time": "2019-01-28 20:50:55"},
+            {"merchant": "Piticas", "amount": 50.00, "time": "2019-05-28 11:30:55"},
+            {"merchant": "Piticas", "amount": 20.00, "time": "2019-05-28 12:30:55"},
+            {"merchant": "Piticas", "amount": 10.00, "time": "2019-05-28 13:30:55"},
+            {"merchant": "Piticas", "amount": 20.00, "time": "2019-05-28 14:30:55"},
+            {"merchant": "Piticas", "amount": 10.00, "time": "2019-06-28 15:30:55"},
+            {"merchant": "Piticas", "amount": 20.00, "time": "2019-06-28 16:30:55"},
+            {"merchant": "Piticas", "amount": 10.00, "time": "2019-06-01 19:30:55"},
+            {"merchant": "Piticas", "amount": 20.00, "time": "2019-06-01 20:31:50"},
+            {"merchant": "Piticas", "amount": 10.00, "time": "2019-06-01 20:32:30"},
+            {"merchant": "Piticas", "amount": 20.00, "time": "2019-06-01 20:33:29"}
+          ]
+}
