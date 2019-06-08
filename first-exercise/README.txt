@@ -5,7 +5,7 @@ First Exercise
 What Is This?
 -------------
 
-This code (first_exercise.py) were developed in python (version 3.7.3) to comply with the proposed challenge described at the first-exercise.txt file sent by Nubank. The code implements a function that authorizes a transaction for a specific account, following some predefined rules.
+This code (first_exercise.py) were developed in python (version 3.7.3) to comply with the proposed challenge described at the first-exercise.txt. The code implements a function that authorizes a transaction for a specific account, following some predefined rules.
 
 
 Requirements to run this code
